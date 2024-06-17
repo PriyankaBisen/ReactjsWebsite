@@ -9,14 +9,14 @@ export default function Footer() {
                     <img src={logo} className='img-fluid logiImg' alt='logo'/>
                     <div className='row row-cols-1 row-cols-md-3 g-4 d-flex '>
                         <div className='col'>
-                            <p className=' socialtext'><i class="bi bi-envelope"></i> triontechsolution@gmail.com</p>
+                            <p className=' socialtext'><i className="bi bi-envelope"></i> triontechsolution@gmail.com</p>
                         </div>
                   
                         <div className='col'>
-                            <p className='socialtext'> <i class="bi bi-instagram"></i> triontechsolution</p>
+                            <p className='socialtext'> <i className="bi bi-instagram"></i> triontechsolution</p>
                         </div>
                         <div className='col'>
-                            <p className='socialtext'><i class="bi bi-linkedin"></i>  triontechsolution</p>
+                            <p className='socialtext'><i className="bi bi-linkedin"></i>  trion tech solution</p>
                         </div>
                         </div>
                 </div> 
@@ -26,7 +26,7 @@ export default function Footer() {
                         <li>ABOUT</li>
                         <li>OUR WORK</li>
                         <li>BLOG</li>
-                        <li>CONTACT</li>
+                        <li>CONTACT US</li>
                     </ul>
                 </div>
             </div>
